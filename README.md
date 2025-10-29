@@ -9,7 +9,7 @@ A passionate **DevOps Engineer**, **Full-Stack Developer**, and **cloud technolo
 Feel free to reach out — I’m open to **collaborations**, **projects**, or just a great tech conversation!
 
 - 📧 Email: [mishrasaurav499@gmail.com](mailto:mishrasaurav499@gmail.com)
-- 💼 LinkedIn: [Saurav Mishra](#) *(Insert your actual LinkedIn URL)*
+- 💼 LinkedIn: [Saurav Mishra](https://www.linkedin.com/in/saurav-mishra-252730237/) 
 - 💻 GitHub: [Saurav-devops](https://github.com/Saurav-devops)
 
 ---
