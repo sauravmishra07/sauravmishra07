@@ -119,7 +119,8 @@ Email Me 👉 ✉️ **mishrasaurav499@gmail.com** For Collaboration/Project or 
 ---
 
 <div align="center">
-
+<img src="https://komarev.com/ghpvc/?username=sauravmishra07&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  
 ⭐ From [**Saurav Mishra**](https://github.com/Saurav-devops) with ❤️
 
 *"Automate everything — if you do it twice, script it."* 💻✨
