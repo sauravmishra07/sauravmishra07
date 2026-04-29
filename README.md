@@ -101,7 +101,7 @@ Email Me 👉 ✉️ **mishrasaurav499@gmail.com** For Collaboration/Project or 
 <div align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sauravmishra07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=sauravmishra07&theme=radical&hide_border=true" alt="GitHub Streak" />
+ <img width="48%" src="https://streak-stats.demolab.com?user=sauravmishra07&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravmishra07&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 
