@@ -109,10 +109,8 @@ Email Me 👉 ✉️ **mishrasaurav499@gmail.com** For Collaboration/Project or 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravmishra07&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
-### 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sauravmishra07/sauravmishra07/output/snake.svg" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
