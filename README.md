@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **mishrasaurav499@gmail.com** For Collaboration/Project or 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saurav_mishra07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurav-mishra-252730237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrasaurav499@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurav-devops)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sauravmishra07)
 
 </div>
 
@@ -95,33 +95,32 @@ Email Me 👉 ✉️ **mishrasaurav499@gmail.com** For Collaboration/Project or 
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sauravmishra07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sauravmishra07&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sauravmishra07&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+
 </div>
+
+### 📈 Contribution Graph
 
 <div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sauravmishra07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
- <img width="48%" src="https://streak-stats.demolab.com?user=sauravmishra07&theme=radical&hide_border=true" alt="GitHub Streak" />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravmishra07&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-
 </div>
 
-<p align="center">
-  <a href="https://github.com/Saurav-devops">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sauravmishra07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sauravmishra07&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+### 🐍 Contribution Snake
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sauravmishra07/sauravmishra07/output/snake.svg" alt="Snake eating my contributions" />
+</div>
 
 ---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sauravmishra07&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
   
-⭐ From [**Saurav Mishra**](https://github.com/Saurav-devops) with ❤️
+⭐ From [**Saurav Mishra**](https://github.com/sauravmishra07) with ❤️
 
 *"Automate everything — if you do it twice, script it."* 💻✨
 
